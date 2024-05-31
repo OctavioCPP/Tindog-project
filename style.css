@@ -1,5 +1,5 @@
 .gradient-background {
-  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background: linear-gradient(300deg, #9AC8CD, #0E46A3, #1E0342);
   background-size: 180% 180%;
   animation: gradient-animation 18s ease infinite;
 }
@@ -28,4 +28,10 @@
 }
 .dog-img{
   border-radius: 50%;
+}
+.E1F7F5{
+  color: #E1F7F5;
+}
+.color-darkblue{
+  color: #0E46A3;
 }
